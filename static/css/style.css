@@ -1,0 +1,13 @@
+.container_fruits img {
+    height: 200px;
+    width: 50%;
+}
+
+.container_fruits img:hover {
+    border: 5px solid #f7f7f7;
+}
+
+.container .col-lg-4 {
+    margin: 0 !important;
+    padding: 10px;
+}
